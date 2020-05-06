@@ -1,0 +1,14 @@
+server:
+  port: 8070
+  servlet:
+    context-path: /springbootpracticeExample
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/mydb
+    username: root
+    password: priyanka@12650
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
