@@ -13,6 +13,4 @@ spring:
     hibernate:
       ddl-auto: update
 
-message:
-  localMessage: Hello World
-  devMessage: Hello World from Developers
+message: Hello World from Local
