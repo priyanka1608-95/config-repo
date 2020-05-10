@@ -10,6 +10,7 @@ spring:
     url: jdbc:mysql://localhost:3306/mydb
     username: root
     password: priyanka@12650
+    driver-class-name: com.mysql.jdbc.Driver
   jpa:
     show-sql: true
     hibernate:
