@@ -17,5 +17,5 @@ spring:
       ddl-auto: update
 
 message:
-  userMessage: Hello World from Developers..its working..thank you rits....
+  userMessage: Hello World from Developers..its working....
   displayMessage: Dev Display
